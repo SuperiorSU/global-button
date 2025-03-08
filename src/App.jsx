@@ -40,7 +40,7 @@ const App = () => {
       ></div>
       <div className='w-3/4 h-3/4 rounded-3xl text-white flex flex-col justify-center items-center z-10'>
         <h1 className='text-4xl opacity-90 font-bold text-center animate-pulse'>
-          Welcome to Global Button
+          Welcome to Global Futures Summit 2.0
         </h1>
         <button
           onClick={handleLaunch}
